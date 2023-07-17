@@ -1,4 +1,14 @@
-﻿using System;
+/*
+* Name: HNP Simple SQL Sync
+* Description: Synchronize 2 SQL databases based on freshness.
+* Author: Homepage-nach-Preis - Christopher Rohde
+* Version: 1.0
+* Author URI: https://homepage-nach-preis.de/
+* License: Creative Commons Non-Commercial - CC-NC 4.0
+*/
+
+
+using System;
 using System.Data.SqlClient;
 
 class Hnp_DatabaseSynchronizer
