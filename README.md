@@ -1,3 +1,5 @@
 # hnp-simple-sql-sync-csharp
 
-Use ADO.NET-Framework 
+Simple C# code to synchronize 2 SQL databases based on freshness.
+
+- ADO.NET-Framework 
